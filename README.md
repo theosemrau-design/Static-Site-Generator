@@ -2,7 +2,7 @@
 > [!WARNING]
 > You need to have python3 installed for this project to work.
 ## Usage
-To use this generator, put some markdown files in the content directory as index.md files. If you want to add content that isn't html, put it into the static directory and it will be copied into the docs directory.
+To use this generator, put some markdown files in the content directory as index.md files. If you want to add content that isn't html, put it into the static directory and it will be copied into the output directory.
 
 Then run the main.sh script from the root of the project:
 ```bash
